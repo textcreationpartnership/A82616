@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of both houses of Parliament sent to the well-affected brethren of the kingdome of Scotland. Wherein is discovered the manifold dangers, threatning the ruine of his kingdome and the kingdome of Scotland, by the insurrection of many papists and others taking up of armes in the north. With their unfained counsell and desires unto the brethren of Scotland, to take up armes, and to come into England, for the suppressing of these present dangers, and the subduing of these papists forces; Which without prevention are like to bring destruction upon both kingdomes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82616</idno>
+            <idno type="STC">Wing E1344</idno>
+            <idno type="STC">Thomason E127_20</idno>
+            <idno type="STC">ESTC R2218</idno>
+            <idno type="EEBO-CITATION">99871642</idno>
+            <idno type="PROQUEST">99871642</idno>
+            <idno type="VID">156204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156204)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of both houses of Parliament sent to the well-affected brethren of the kingdome of Scotland. Wherein is discovered the manifold dangers, threatning the ruine of his kingdome and the kingdome of Scotland, by the insurrection of many papists and others taking up of armes in the north. With their unfained counsell and desires unto the brethren of Scotland, to take up armes, and to come into England, for the suppressing of these present dangers, and the subduing of these papists forces; Which without prevention are like to bring destruction upon both kingdomes.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Priuted [sic] for Tho. Nelson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Novemb. 17. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156204:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of both Houſes of PARLIAMENT Sent to the well-affected Brethren of the Kingdome of <hi>Scotland.</hi>
+            </p>
+            <p>Wherein is diſcovered the manifold dan<g ref="char:EOLhyphen"/>gers, threatning the ruine of this king<g ref="char:EOLhyphen"/>dome and the Kingdome of <hi>Scotland,</hi> by the In<g ref="char:EOLhyphen"/>ſurrection of many Papiſts and others ta<g ref="char:EOLhyphen"/>king up of Armes in the North.</p>
+            <p>With their unfained Counſell and Deſires unto the Brethren of Scotland, to take up Armes, and to come into <hi>England,</hi> for the ſuppreſsing of theſe preſent dangers, and the ſubduing of theſe Papiſts Forces;</p>
+            <p>Which without prevention are like to bring de<g ref="char:EOLhyphen"/>ſtruction upon both Kingdomes.</p>
+            <p>Printed for <hi>Tho. Nelſon. Novemb.</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:156204:2"/>
+            <pb facs="tcp:156204:2"/>
+            <head>
+               <hi>A Declaration of both Houſes of</hi> Parliament.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">P</seg>Ublike dangers cannot bee with too much care over<g ref="char:EOLhyphen"/>lookt, and when the whole eſtate of a Kingdome lyes at ſtake by the malice of ſome ill affected members belonging to the ſaid body. Conſpiracies of this grand and de<g ref="char:EOLhyphen"/>ſperate nature are not eaſily prevented: For this end Parliaments, who are the eye of the Kingdome, have been elected and che<g ref="char:EOLhyphen"/>riſhed, and continually by their cares and conſultations have People and Kingdome bin preſerved from imminent deſtruction. And yet in this miſerable Kingdome things are ſo disjoynted, the publike peace ſo diſturbed, and all things which may promote ruine and accelerate deſtruction;
+<pb facs="tcp:156204:3"/>ſo out of frame, that it ſeemes very diffi<g ref="char:EOLhyphen"/>cult unto that ſupreame Court, the grand counſell of this Kingdome, to reduce the deſtructions of this State to their priſtine peace and integrity. They have ſought all plauſible wayes for remedy, and now at the laſt, when nothing elſe will doe, <hi>Immedicabile vulnus. Enſe recidendum eſt, ne pars ſincera trahetur</hi> The Sword, although very unwillingly hath been drawne, yea dipt and dyed in Scarlet, as if it bluſht at the unnaturall practiſe it was conſtrained unto, and yet ſince they have moſt hum<g ref="char:EOLhyphen"/>bly beſeecht His Gracious Majeſty to give an eare unto the Deſires of His faithfull Counſell the Parliament now aſſembled, whereby the effuſion of much innocent blood may bee prevented, which of nece<g ref="char:EOLhyphen"/>ſſity muſt enſue with the hazzard of the whole Kingdome, without ſome mature courſe to ſtay and remedy the now grow<g ref="char:EOLhyphen"/>ing dangers on foot: Yet this alſo hath taken ſmall effect by reaſon of his wicked counſell, whoſe crooked and backward
+<pb facs="tcp:156204:3"/>diſpoſitions to peace, doe ſtill incenſe His Majeſties good diſpoſition to the proſecution of this moſt unnaturall Warr againſt his Parliament, the repreſentative Body of the whole Kingdome. Where<g ref="char:EOLhyphen"/>upon conſidering how the Malignant partie doth daily encreaſe, and grow ſtronger and ſtronger; And how not onely this, but the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> may alſo couſequently bee endange<g ref="char:EOLhyphen"/>red by this unnaturall Warre; they paſſed a Declaration, and ſent it into <hi>Scotland</hi> with all ſpeed that might bee, the ſubſtance whereof is here according to the beſt and trueſt information ſet downe.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:156204:4"/>
+               <p>THat notwithſtanding their continuall care to ſuppreſſ this growing <hi>Hydra</hi> in its proceedings, yet ſtill the daungerous diſtempers continue here, and are ſo farr from being compoſed, that therr remains but very ſmal hopes to accompliſh ſo hap<g ref="char:EOLhyphen"/>py, and deſired an end as their endeavours and intentions have aimed at in all their conſultatious; For the Papiſts whoſe Re<g ref="char:EOLhyphen"/>ſolutions have leveled at the ſubverſion of this Church and State, and not only ſome of meaner quality and ability, but even the moſt powerfull, and thoſe of greater eminence, in the Northerne parts of this Kingdome, and alſo in diverſe other Coun<g ref="char:EOLunhyphen"/>ties thereof, do ſtill perſiſt and pro<g ref="char:EOLhyphen"/>ceed in rayſing of forces againſt the Parliament, whereby they eadeavour to ſtay and for to prohibite all manner of Reformation either in Church or in the Common-wealth.</p>
+               <p>And that not onely in the bowels of this Nation but in that by their procurement great endeavours are uſed in Forraigne
+<pb facs="tcp:156204:4"/>parts great endeavours are uſed, to intro<g ref="char:EOLhyphen"/>duce and bring in, all power and force from other Countries, which are intended to Land at New Caſtle, or ſome other place within this Kingdom. And alſo that thoſe forces are determined to joyne with the <hi>Paq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſts</hi> forces in the <hi>North,</hi> whereby that Kingdom of <hi>Scotland</hi> alwell as this will run into deſtruction. For it is to be con<g ref="char:EOLhyphen"/>ceived, when our neighbours houſe is on fire ours is not ſecure, wherefore both hou<g ref="char:EOLhyphen"/>ſes of Parliament conceiving the daunger now approaching, have thought fit to ſend this their Declaration to their well affect<g ref="char:EOLhyphen"/>ed brethren of <hi>Scotland,</hi> that both ours and their miſery may be prevented, before it take faſt hold on them and us, and then prove incurable.</p>
+               <p>That they would therfore make all ſpeed to prepare ſuch forces as may quiet theſe ſtormes, and that they would raiſe ſuch forces as they thinke fiting to reme<g ref="char:EOLhyphen"/>dy theſe preſent evils, and to come into <hi>England</hi> to aſſiſt this languiſhing King<g ref="char:EOLhyphen"/>dome
+<pb facs="tcp:156204:5"/>from the hands of bloody <hi>Papiſts,</hi> and by this meanes the whole Kingdome may take iuſt notice, and be truly inform<g ref="char:EOLhyphen"/>ed notwithſtanding all ſcandalous reports. That the Parliament ſtill have a moſt Pi<g ref="char:EOLhyphen"/>ous care, aſwell for the future eſtate, as the preſent of this Kingdome, in caſe that the Cavaleers, and the reſt of his Maieſties ill Councell ſhould prevaile with him, and that by them he ſhould be ſeduced, ſo that he ſhould not hearken to the faithfull and juſt deſires of his moſt Loyall Subjects now aſſembled in <hi>Parliament.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
